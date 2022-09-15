@@ -80,7 +80,7 @@
                             <file>lib/desktop-game-engine.jar</file>
                             <groupId>com.javarush</groupId>
                             <artifactId>desktop-game-engine</artifactId>
-                            <version>1.0</version>
+                            <version>${game-engine.version}</version>
                             <packaging>jar</packaging>
                         </configuration>
                     </execution>
